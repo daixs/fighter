@@ -8,6 +8,7 @@ class ImgNumManager
     private static _instance:ImgNumManager;
     public constructor()
     {
+        //this is todo for
         this._imgPool = [];
         this._containerPool = [];
     }
