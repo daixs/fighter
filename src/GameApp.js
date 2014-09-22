@@ -39,7 +39,7 @@ var GameApp = (function (_super) {
             //游戏的主类开始实例化
             var gameContainer = new fighter.GameContainer();
             this.addChild(gameContainer);
-            //FPS
+            //FPSsdfdsf
             //egret.Profiler.getInstance().run();
         }
     };

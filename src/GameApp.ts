@@ -35,7 +35,7 @@ class GameApp extends egret.DisplayObjectContainer{
             //游戏的主类开始实例化
             var gameContainer:fighter.GameContainer = new fighter.GameContainer();
             this.addChild(gameContainer);
-            //FPS
+            //FPSsdfdsf
            //egret.Profiler.getInstance().run();
         }
     }
